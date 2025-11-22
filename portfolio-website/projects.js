@@ -2,7 +2,7 @@
 
 const projects = [
   {
-    title: "Project One",
+    title: "Grade Calculator",
     description: "A beautiful website built with HTML, CSS, and JavaScript",
     tags: ["HTML", "CSS", "JavaScript"],
     link: "#",
@@ -19,6 +19,30 @@ const projects = [
     tags: ["HTML", "CSS", "Responsive"],
     link: "#",
     },
+  {
+    title: "Project Three",
+    description: "A responsive portfolio website for a client",
+    tags: ["HTML", "CSS", "Responsive"],
+    link: "#",
+    },
+  {
+      title: "Project Three",
+      description: "A responsive portfolio website for a client",
+      tags: ["HTML", "CSS", "Responsive"],
+      link: "#",
+    },
+    {
+      title: "Project Three",
+      description: "A responsive portfolio website for a client",
+      tags: ["HTML", "CSS", "Responsive"],
+      link: "#",
+      },
+    {
+        title: "Project Three",
+        description: "A responsive portfolio website for a client",
+        tags: ["HTML", "CSS", "Responsive"],
+        link: "#",
+      },
 
 
 ]
